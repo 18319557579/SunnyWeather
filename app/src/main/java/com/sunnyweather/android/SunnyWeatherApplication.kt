@@ -4,7 +4,7 @@ import android.annotation.SuppressLint
 import android.app.Application
 import android.content.Context
 
-class SunnyWeahterApplication : Application(){
+class SunnyWeatherApplication : Application(){
     companion object{
         const val TOKEN = "MhCRtaYV7GLRMpky"
 
