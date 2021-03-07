@@ -11,5 +11,6 @@ fun main(){
 
     val str = "app\\src\\main\\java\\com\\sunnyweather\\android\\logic\\model"
     println(str.replace("\\","/"))
+    println("你好")
 
 }
