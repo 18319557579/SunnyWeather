@@ -35,6 +35,8 @@ class WeatherActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_weather)
 
+        Toast.makeText(this,"版本1.0",Toast.LENGTH_SHORT).show()
+
         navBtn.setOnClickListener {
             drawerLayout.openDrawer(GravityCompat.START)
         }
