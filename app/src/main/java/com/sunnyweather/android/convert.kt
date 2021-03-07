@@ -9,8 +9,8 @@ fun main(){
 //    }
 //    Thread.sleep(1000)
 
-    val str = "app\\src\\main\\java\\com\\sunnyweather\\android\\logic\\model"
+    val str = "C:\\Users\\11525\\AndroidStudioProjects\\SunnyWeather"
     println(str.replace("\\","/"))
-    println("你好")
+    println("你好2")
 
 }
